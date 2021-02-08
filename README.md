@@ -675,16 +675,12 @@ Approve the login from the browser as the page pops up.
 
 Now create a flask app:
 
-heroku create <name of your app>
-I named it mpg-flask-app. It will create a flask app and will give us a URL on which the app will be deployed.
 
 Finally, push all your code to Heroku remote:
 
 $ git push heroku master
 
-And Voilà! Your web service is now deployed on https://mpg-flask-app.herokuapp.com/predict.
-
-Again, test the endpoint using the request package by sending the same vehicle config:
+Your web service is now deployed on https://mpg-flask-app.herokuapp.com/predict.
 
 
-With that, you have all the major skills you need to start building more complex ML applications.
+

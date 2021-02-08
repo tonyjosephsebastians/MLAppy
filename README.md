@@ -680,7 +680,7 @@ Finally, push all your code to Heroku remote:
 
 $ git push heroku master
 
-Your web service is now deployed on https://mpg-flask-app.herokuapp.com/predict.
+Your web service is now deployed on https://mlappy.herokuapp.com/predict.
 
 
 
